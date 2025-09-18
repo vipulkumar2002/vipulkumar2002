@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulkumar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vipulkumar2002" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, MongoDB**
+- 🌱 I’m currently learning **Generative AI, and DevOps**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, C, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Node**
 
 - 📫 How to reach me **vipulkumarpatel2002@gmail.com**
 
